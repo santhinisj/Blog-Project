@@ -6,6 +6,6 @@
 3. cd mysite
 4. django-admin startapp blog
 
-##Connecting to git
+## Connecting to git
 Connect to git repository, git add . , git commit . -m 'message',
 git remote add origin url[of git repository] and git push  -u origin master
