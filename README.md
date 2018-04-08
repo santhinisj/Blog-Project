@@ -7,5 +7,5 @@
 4. django-admin startapp blog
 
 ## Connecting to git
-Connect to git repository, git add . , git commit . -m 'message',
+Create a git repository and follow instructions to connect to a local folder, git add . , git commit . -m 'message',
 git remote add origin url[of git repository] and git push  -u origin master
